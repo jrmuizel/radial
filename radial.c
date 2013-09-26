@@ -1,3 +1,5 @@
+/* a study on different techinques for computing radial gradients */
+
 #include "minpng.h"
 #include <math.h>
 #include <mach/mach.h>
